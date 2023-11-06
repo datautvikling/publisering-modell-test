@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<magicdraw>
+<model classType="Model" humanType="Model" icon="FOM-ReelleRettighetshavere_files/icon_model_507944445.jpg" name="Model" refid="1a933752-ff07-45b9-b55b-6b964b98aefa">
+<ownedElement>
+<package classType="Package" humanType="Package" icon="FOM-ReelleRettighetshavere_files/icon_package_662433937.jpg" name="RegisterOverReelleRettighetshavere_fom" refid="bb9688f3-79ba-4a23-9be9-3ccb875450ae">
+<ownedElement>
+<diagram classType="Diagram" humanType="Diagram" icon="FOM-ReelleRettighetshavere_files/icon_Content Diagram_524553565.jpg" name="Oversikt" refid="0dd220a4-96c0-4fbd-bc01-aab50ebc9848">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : UML Standard Profile::MagicDraw Profile::DiagramInfo" refid="f52e14bd-bb12-41aa-861e-e270390982ea">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="6a467f23-f422-4829-ba73-4a21cb7ef863">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="27.04.20 11:16" refid="50f07d0c-0024-48b7-9e08-4cb0f72e9e6b" text="27.04.20 11:16"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="62478b74-80b4-4dcb-9561-c83d6c843911">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="20.09.22 10:28" refid="e576c9ae-ffbc-4cc8-8dff-d2857f0a67ec" text="20.09.22 10:28"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="52501fe7-42c9-4140-ad5d-3f2355b1b8e4">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="mha" refid="63dfa4a3-945b-4fa7-9562-8828277c4430" text="mha"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="f296d317-4af4-474e-b16f-e7039a1172f2">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="toh" refid="21d99c82-f0a7-41ae-854b-c4a62c5fa9f1" text="toh"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</diagram>
+<diagram classType="Diagram" humanType="Diagram" icon="FOM-ReelleRettighetshavere_files/icon_Class Diagram_847518364.jpg" name="RegisterOverReelleRettighetshavere_fom" refid="b8a7e836-0572-48aa-82a4-fde8f46e38c3">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : UML Standard Profile::MagicDraw Profile::DiagramInfo" refid="a115f3ab-a49c-41a4-8871-48a75021cd31">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="54bb291d-0a4c-4c6f-b06e-789feaa5f542">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="14.05.20 08:44" refid="90fa87e4-c4b8-4e19-9fbc-88c96b089caa" text="14.05.20 08:44"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="7e477ff2-54c4-4fdb-b009-3b5e579a0aea">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="08.11.22 09:45" refid="c2cd0a45-1f0c-4b51-a675-ad996710cf9b" text="08.11.22 09:45"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="7370450a-8c4f-4ae7-acac-707d8f0b610b">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="mha" refid="86d058d1-4bb1-4457-8c94-db1837e1840c" text="mha"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="aa790183-b463-4314-84a9-c1625db1738b">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="toh" refid="11faaad7-bb9a-4b18-976f-08076ecdfaa5" text="toh"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</diagram>
+<diagram classType="Diagram" humanType="Diagram" icon="FOM-ReelleRettighetshavere_files/icon_Class Diagram_847518364.jpg" name="RegistreringspliktigVirksomhet_fom" refid="cb604f79-9b9f-43db-931f-2b9fb1ba1f89">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : UML Standard Profile::MagicDraw Profile::DiagramInfo" refid="b5a9fe4d-052a-4135-8a7c-67a9bc3e5277">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="1ac70dc3-d22b-4b23-8d64-5967a7fa2330">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="05.06.20 11:04" refid="7b25b535-85c6-4835-a69a-a308a401d325" text="05.06.20 11:04"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="0e39bbb6-eb3c-4a9a-a112-46315dcafaad">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="04.11.22 10:59" refid="5cba0a29-308d-4152-9f23-c7b3cdff5425" text="04.11.22 10:59"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="8024a5d4-9128-4e93-95a9-d0b018000f6a">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="mha" refid="3a16a9c2-0ee3-494b-99f7-4a2d3124a553" text="mha"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="6437efc4-f2e7-4a91-a088-47eb07aecd1d">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="toh" refid="aa296141-75f4-43f7-9528-b4ca14a83f9f" text="toh"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</diagram>
+<package classType="Package" humanType="Package" icon="FOM-ReelleRettighetshavere_files/icon_package_662433937.jpg" name="Aktør" refid="0de1a628-a0c0-482f-b2d6-78b8676f4b26">
+<ownedElement>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Organisasjonsnummer" refid="9e549a76-e694-4e4b-97e3-7e31b11c6916">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="92edf5b5-a217-45f8-a0ff-104ac587c6eb">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="a4efd0f2-0aff-44c1-b28c-4aa3fde4fa4e">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-4" refid="79132763-59c4-48d4-ba75-4be9ceb4b255" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-4&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Person" refid="3471e6fa-39ef-47ee-a9a9-a9c0ea9b8cc1">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="1bf8ef22-11f8-4793-8e99-710545b16700">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="39393943-5b2b-4698-9950-d7f28348e3e1">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-237" refid="ba253acd-cf6a-4861-8386-5f70d420f14a" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-237&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Utenlandsk virksomhet" refid="b75cc6cb-44db-4f53-8cff-c47b069e44b2">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="b8fec633-e1f3-4c81-8523-e0a0a8e57f26"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Virksomhet" refid="2eedc506-afa4-44e4-93ed-2ad0fd2a3829">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="ce23abb2-bcd7-4b66-bb42-c6a3912b5458">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="408f33cd-134e-4bed-b9dc-3960f3067004">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-208" refid="0dee5e21-878c-45c9-8bb8-9406cef01bf2" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-208&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</class>
+</ownedElement>
+</package>
+<package classType="Package" humanType="Package" icon="FOM-ReelleRettighetshavere_files/icon_package_662433937.jpg" name="Posisjon" refid="460ff5bb-bb28-4643-9c8d-93f0cb177724">
+<ownedElement>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Avgiver av grunnkapital" refid="70e0a4d2-5480-4229-88d1-a2100e2fe69c">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="e9b32302-b957-4836-ab22-02ddb7fbbb7e">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="4196e1cb-5cbd-4946-a9c9-b05c2bc0d762">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1031" refid="460f9e80-e521-4174-b966-789ea8b9721d" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1031&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="4b6dbf1f-621b-4672-9a1e-21e525b479b7"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="ecac8fbb-f969-4e56-8eaf-99da1b47a20f"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Begunstigede" refid="5f224e33-bf5d-40ae-af75-0ddb2ce93b60">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="b5b4dd1c-511b-4ce5-bb20-c8d95ab00c1d"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="dc263850-f4e1-4f62-ad7c-77b10d1a72c1"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Beskytter" refid="0a15c7c0-b052-4536-bfd8-a54e8d798fd1">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="e19f54c7-f6c0-462d-99fa-1bf9919cad22"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="50a67e9b-baca-4e7f-8144-39cc84f0ae19"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Daglig leder" refid="8b20ed71-80fe-43b5-8b76-db3dedf6680c">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="f20e70f8-ec0b-49b4-a3de-c05d68848c5d">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="95f46675-c51d-4f4a-8807-1754354b32dd">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-605" refid="bf21b375-da48-4e59-bf5b-a49e50b0af6c" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-605&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="6f0af766-b058-44b1-8010-4896f46918f3"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="0a81eb8e-2496-48c5-92c5-e527c874f857"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Destinatar" refid="14f1df59-a927-40de-ab84-097f26a529f8">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="184d491a-26ea-4223-a0ff-3c5f4746686d">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="d78f2c79-bdd2-49cf-9be3-d51764649911">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1069" refid="52420cd0-52cd-4519-a71e-302403cc89e2" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1069&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="250ea73b-f78c-4298-9f59-9fcb3e9a285e"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="9da630f3-a0ae-4f76-b279-ab85932daabc"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Direkte grunnlag" refid="73f86a43-33e7-4437-9067-9513eb40c3cb">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="eae48cd2-3018-41fd-b4cc-80a395cb1490"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Eierskap" refid="0c1cee76-78eb-48b9-977b-1538f88b1031">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="da0a472b-88a2-49bb-b73b-53592eb45474">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="9480729f-8b4d-4e94-91fe-113e67e96cf0">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1062" refid="45c6b6d7-5c2a-429b-b29f-c8fc7bf02081" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1062&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="3bad5d64-7643-4432-8e72-1035fdad49c7"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Enighet eller avtale" refid="d6b69a51-67cd-4792-83c6-42e6a83630a1">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="1ce2b98a-c96a-4fda-bc86-3f55f52d775d">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="675fa3a0-9630-44b9-94c0-05d42f627f2d">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1067" refid="aa4d4b6e-9221-4f9a-b280-26cb66f5050f" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1067&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Forvalter" refid="62b68300-f71d-4bcd-8a6c-c39a4e19e74f">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="0a30b37a-942a-4949-9db3-4447d054cd0b"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="86ba72c9-4f7d-4bca-bd85-82176c8e2925"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Grunnlag" refid="dda450a7-459f-4584-a4a4-3195532a5eef">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="3a0d0be9-1472-4088-9b3a-bdb4be9bc972">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="1f186de2-1f3f-4de0-b4ec-f59a2cd5935f">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1059" refid="c5839691-5a1e-41d2-a6dd-8f58596e7732" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1059&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Direkte grunnlag" refid="281478d6-de16-419d-af43-336dda4f4dbd"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Inndirekte grunnlag" refid="e4c6cb97-1718-4dbe-b216-1ae77cdd2c98"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Enighet eller avtale" refid="b440ac35-c5ab-4b67-9e88-29f383eea79d"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Inndirekte grunnlag" refid="400af45a-1c72-498c-9395-fd87eed51217">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="882ea942-7658-454a-b6c9-34e15619de2c">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="5dfd88e2-7357-4004-9b13-9160aae92f60">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1066" refid="90683e4b-8454-41ae-8d35-91f8421c1705" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1066&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Kontroll over stemmerettigheter" refid="3a47e3f7-8044-411a-b0c9-eba8d1a5386a">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="016a612e-5f20-4d3d-b188-a8087c6f986a"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="cb330722-ea16-4db2-b560-c66c9bbfe4fe"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Kontroll over trusten på annen måte" refid="16856af1-0316-4df5-bbb7-550eecb4633f">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="e94d4ca4-4e8a-425a-9352-15aa4336abf0"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="bfe9c27c-c56c-491b-905b-d01712c44c99"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Kontroll på annen måte" refid="62d0d6e0-faa0-4167-a956-fda00daf77a1">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="3d436f3c-3d3f-4d75-915e-5273e5ac7d08"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="c1b5c2ce-d031-44a5-b55c-f486fcddc591"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Oppretter" refid="035e7d2b-faf6-493f-8aae-7a89dbc7f3c6">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="9edc2d17-3ba1-4bb0-abe1-fbb5e7602773"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="1bf4b76a-615a-46b4-8aa4-4f6dae4f87af"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Posisjon" refid="b8b33b1b-56d5-437b-b3b8-20a43821749b">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="3fe44e71-531e-4277-a5d9-b61f7e56b46b">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="a6f3f6c3-58bd-471e-9a3b-20cc3c3ebc61">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1053" refid="c3604fd5-a934-49ed-8200-b66c20b34863" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1053&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="345bcda3-1fd6-462f-b093-9b7d15b3d8e2"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Grunnlag" refid="1c30b45a-564e-40ee-9baf-88807b5c2f9c"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Rett til å utpeke et flertall av styremedlemmer" refid="39c960da-7319-4f7b-83b5-6f70ad1729b7"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Rett til å utpeke eller avsette minst halvparten av styremedlemmene " refid="8f492e66-2f91-4bbe-a18e-2068355c23c8">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="c1d6629e-66c9-471b-96f6-75fd43a2fd43"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="4561be11-5769-4a83-9a3d-6343e0bd7631"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Rett til å utpeke et flertall av styremedlemmer" refid="34cf4049-7d10-4ccb-a054-f339e546e997">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="8426f8bc-a8fe-4113-aa04-0aa91d52e9c5"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="28232230-dc1d-4ab5-a4f0-a8a4d4df3001"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Styremedlem" refid="e599641c-0f2d-4421-ad19-5f694c8a4840">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="d5cb76ec-a3e2-4328-a478-75d242e31b08">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="66462212-f5ce-4954-8845-d344fa81f9f5">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-943" refid="8f18afe1-faae-403b-8b8e-43d4ae237e33" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;&lt;a href=&quot;https://jira.brreg.no/browse/BEGREP-943&quot;&gt;https://jira.brreg.no/browse/BEGREP-943&lt;/a&gt;&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="22ef0341-1715-4a01-ad3d-9b2d73d6e5f2"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Særlige rettigheter" refid="5c1e23f9-bf5c-4248-8f86-3abac7ca37bf">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="5b082005-02af-4049-9e0f-fa6decea141c"/>
+</ownedElement>
+</class>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="er" refid="2cc5e8d9-232a-4107-bda3-634cbf429bef">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Daglig leder" refid="e6e01a09-65e0-442c-9ef4-3b0f8921f57f"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="er1" refid="ff5ac15b-f8a6-43d3-8e25-b82cc27b8c49">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Avgiver av grunnkapital" refid="4897e8aa-b598-4963-bf41-c9b80c44334c"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="er2" refid="0b7f344f-256c-45ae-a670-45f6d1f2f7bb">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Destinatar" refid="1b5a3b67-ad8f-438c-89df-037be564f0f3"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="gjelder type kontroll over" refid="42a3990c-ba6f-4d84-b5ee-078e958dc7aa">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Posisjon" refid="9432781a-27c2-4eca-8656-bee9f04cdb03"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være" refid="309ab66c-45e8-495b-a5c2-1a483239047b">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Grunnlag" refid="f56c8f92-f638-4844-8fab-357a256ff239"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være" refid="f5b24e43-d1b0-481e-b8f2-6213ee714a37">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Grunnlag" refid="355ff311-be6d-4b01-8f36-dae80972a6fc"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være" refid="0853a877-9fc0-47f8-b101-59314e4caf38">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Grunnlag" refid="aae2ff32-cab1-4783-9156-e7bebef9b77e"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være basert på " refid="7b38f4db-fcbe-4083-a37e-172dc9d9fb52">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Posisjon" refid="c071cbb5-931d-40c3-bfe3-515908a78705"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være14" refid="43e62a2c-85b5-464b-95fa-b42dbed70fae">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Posisjon" refid="755e6fe1-5f3b-4b27-a837-9fab2d6f14b6"/>
+</ownedElement>
+</association>
+</ownedElement>
+</package>
+<package classType="Package" humanType="Package" icon="FOM-ReelleRettighetshavere_files/icon_package_662433937.jpg" name="ReellRettighet" refid="8b6ab24f-44da-4c8e-90a0-8964d7a270d6">
+<ownedElement>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Reell rettighet" refid="a4f9dd72-a1a2-4421-8776-e12bb22da044">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="4c56cc46-f272-4ffc-bfa0-e6ebc9207106">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="3cc8d169-b289-473e-9ec5-5800a388473a">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1060" refid="24a5d706-1de5-442c-a344-31c3a154d6a9" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1060&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="6f0de977-03c7-4574-a021-7440ed105ae5"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::RettighetID" refid="fb848f97-ec43-4877-846a-9cc32d85793b"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="8e3cdb53-98cb-401c-a628-6be328d541b1"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Regulert marked" refid="e9efd862-2f77-4101-9c62-c5d36009e00c"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Utenlandsk register" refid="e8061d2e-3d49-49f5-a8be-a4854e6a5509"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Varsel::Varsel" refid="7ff78f06-a4ce-416c-839b-bb6ccca3ddb8"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Regulert marked" refid="02f4ab28-7ae9-43ed-a581-7eba102d84f3">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="3a90cc58-51cb-40c7-ad1a-ebc9818c9fb4"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="RettighetID" refid="ad4c1a1a-6b8d-418d-ac3a-15c4c7819dc4">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="491ff499-a01e-4d0a-afcc-7eef551c5c81">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="c3136949-71c9-468d-8ce7-35c9f0f42819">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1136" refid="413b6928-5b8d-447a-97ac-3e0768e20fc2" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1136&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Utenlandsk register" refid="8f2ebfb7-183f-4151-b3da-ceb8987c8fae">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="0253cd86-4e9b-4dac-aedf-1cb11c352d30"/>
+</ownedElement>
+</class>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name=" gjelder" refid="9c594972-a260-44ce-bee4-1db93bbe9940">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Reell rettighet" refid="99540a64-58e8-41b2-b58b-72188147b0e1"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="identifiseres med" refid="086c6f98-6f96-44b6-9aea-de750af43c32">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Reell rettighet" refid="7cf05043-3183-4517-9632-c93753e92dd2"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha" refid="602e43b5-aebe-45ac-bf8d-4759a3c0bd04">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Reell rettighet" refid="0e1a44e0-d331-4e8e-ae4d-195420050f7e"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha" refid="40c9d646-5105-44e0-9b68-49d30a1b75fa">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Reell rettighet" refid="49e680f2-f3dc-4cac-87b2-7e522d5aa09f"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være registrert i" refid="a14dcb24-7ccf-43c1-b126-d94ad11ddae3">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Reell rettighet" refid="1ba13b66-8bc2-488a-a372-0fd9064a47ee"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være registrert på" refid="e21686cc-5d03-4d49-8de0-994a13c7bfd7">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighet::Reell rettighet" refid="65b5f08c-bf08-4f0d-bc01-ba3eb85e0efe"/>
+</ownedElement>
+</association>
+</ownedElement>
+</package>
+<package classType="Package" humanType="Package" icon="FOM-ReelleRettighetshavere_files/icon_package_662433937.jpg" name="ReellRettighetshaver" refid="633ed85c-62d1-4c82-bf6a-e2fddb7b8a52">
+<ownedElement>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Mellomliggende virksomhet" refid="6d7717bc-0c3a-4159-a534-fb72257377e6">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="1976169e-a2bd-4cf0-b28b-c2a73f0b1bf8">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="f8a581be-a3cb-4dc0-8cc2-08b3ef68a37c">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1070" refid="017de40e-ab11-419d-b706-69ea652c39cc" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1070&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="66d0e414-2e89-4241-84e1-0edf38998aa8"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Aktør::Utenlandsk virksomhet" refid="a65a6cd7-aff1-44f8-8e55-47c6a09d4f33"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Aktør::Virksomhet" refid="89fdb827-e9d4-4e1d-a84f-80990b44f695"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Reell rettighetshaver" refid="6d1251f1-97e2-4848-b0f4-ae4e326aab4f">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="f38d5bf1-7f33-4383-9c4b-4fb38b90317a">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="fbf1d6ba-2941-42da-ba52-4199f1d1cdc6">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1051" refid="cfccf41c-2327-46e5-909a-4c0f09ab3227" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1051&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Eierskap" refid="7634dacd-21ae-42bd-b392-1626df263aae"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Rett til å utpeke et flertall av styremedlemmer" refid="4332e996-2d25-4dca-94f8-a0577b204eff"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Rett til å utpeke eller avsette minst halvparten av styremedlemmene " refid="9e95645d-80ed-4699-a1e2-ab2cbd2a8830"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Rett til å utpeke eller avsette minst halvparten av styremedlemmene " refid="d1eb1974-7f24-4667-bd4e-7aa03fc5d121"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Eierskap" refid="7b727861-bb3f-4dcc-8c15-88007e73f874"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Rett til å utpeke et flertall av styremedlemmer" refid="1bf13d2a-684e-42da-a22d-866bf6b608ac"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Rett til å utpeke eller avsette minst halvparten av styremedlemmene " refid="941ec77e-1de9-455e-b8f5-572b350e36c0"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Posisjon" refid="7ca5bcc3-bfb9-418c-b145-1d646e9ee346"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Daglig leder" refid="744b087b-f8a2-4b9b-b983-500c0523fc81"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Avgiver av grunnkapital" refid="51fda55d-1847-47e6-b579-f96e67289c4f"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Destinatar" refid="67fc4dc8-c21e-489b-947f-bca105e20c4b"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="baeba9a8-dcf2-47ab-b0c0-1375a0030ce3"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Posisjon::Posisjon" refid="9ebfa403-70ba-4991-8f35-a25c699f4e1d"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="006e4205-a148-4958-a8b2-fd25cc62daf4"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Mellomliggende virksomhet" refid="8298670d-5a7b-4ce7-a7bd-b2ccd5abee18"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="b5fa14be-9d8c-461e-93e3-f740ff72b25f"/>
+</ownedElement>
+</class>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="eier eller kontrollerer" refid="9f4b464a-8a8f-4272-a27a-eb4e82580eb0">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="8fcfddc1-3591-439b-8a30-a0b849d8def7"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="eier eller kontrollerer" refid="0445c21c-8f45-44a5-8c33-1885cf6d3532">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Mellomliggende virksomhet" refid="f6b6336a-1554-46b6-8dd6-9e912017679a"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="eier eller kontrollerer " refid="0a2fb9c6-532c-44f2-a41c-59b08e46648c">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="5ffb6504-dc49-462f-adb9-4ff3505d8e79"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="er i posisjon til å" refid="d4bff1e9-5460-4fd3-ac6c-9401a3fd40d2">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="afe81902-3977-4880-9deb-ba0c8d274ab6"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="innehar" refid="fe873db3-95bb-4882-a998-2b5f2dfa79ab">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="574b8ded-95b6-43ac-ab8f-08faac6a9b64"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="innehar" refid="0932cc97-7c7a-4458-9997-36ca6505d7c4">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="61c718a2-b7cc-44bc-bd9a-a184a504feb9"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan eie eller kontrollere" refid="d506611d-a81d-4a6c-b34d-c0b8c14b4ac4">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="54fe555b-ef56-418d-be3b-3b21977d5709"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha" refid="c8438ce3-dc40-4ea1-8be8-546b848be94b">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="c0279335-9e71-482d-9edc-7e1b19e60bd9"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha eierskap gjennom" refid="b44e769d-b0da-41c8-ad71-adcf68ba127b">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="fdbde721-ad14-4465-bbbc-9242cb299439"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha kontroll gjennom" refid="87ad2517-67b6-4e51-94e0-ae7e773dc66c">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="df9d4664-da26-4c5a-83db-3356eea67454"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha rett til å" refid="6c8f2473-bb92-4cea-b65a-1e9c74c9619b">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="8c79313d-439b-4e51-a534-03e064522e95"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha rett til å1" refid="6c1fa5c2-b847-43e6-b559-7b8df82e6ce3">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="8ab6b042-3b43-46c9-a3e9-647a35f163bd"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan ha1" refid="63d35389-39db-4b4a-89a6-7cbec67de4db">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="99f0f210-10e6-4ae4-aa4c-a4e67a5397ec"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være" refid="b2c3e7b2-dd0a-46bf-83dd-26c37d0e91b4">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Mellomliggende virksomhet" refid="97533dd2-174e-4dbc-86a4-32a0e300c1e8"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være" refid="57951902-a68d-4804-92c0-b907115b18ee">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Mellomliggende virksomhet" refid="31a53f1e-c0cc-4e21-a021-a86a0332ef12"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være15" refid="2207a653-371a-430d-a0e0-aac38c89cb31">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="9cac1f39-0a02-438b-8c9d-736895d73d3d"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være16" refid="08d80fe8-4557-4ec2-8891-2a5a1cc8f1f9">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="92175a91-bbd8-4353-a117-5d8be3b2f973"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være17" refid="1a5feec4-73bc-49c3-b3d6-d538e3f1e3de">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::ReellRettighetshaver::Reell rettighetshaver" refid="4aa0bdfc-c2f3-40bf-8d72-323ca71d3d7d"/>
+</ownedElement>
+</association>
+</ownedElement>
+</package>
+<package classType="Package" humanType="Package" icon="FOM-ReelleRettighetshavere_files/icon_package_662433937.jpg" name="RegistreringspliktigVirksomhet" refid="9b3497bf-7403-45d1-92bc-25b958d2e44b">
+<ownedElement>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Aksjeselskap" refid="5b4c71c1-c0f9-4901-ba64-f2dd753eee77">
+<ownedElement>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Annet foretak iflg. særskilt lov" refid="14b77d50-56f5-4d79-b828-92726c8b8349">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="88e67e63-6f7e-4d06-8dae-340207582de0">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="e7bf208b-05e3-462a-af69-e44e01c26fa8">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-846" refid="f242c82b-afed-461a-9f30-0d32f4341a16" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-846&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="4e78c56d-5d4d-4a17-9624-d000cb4f724a"/>
+</ownedElement>
+</class>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="70ab52b6-d586-4872-a3d5-18571bf0b0e8">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="12e90a34-407a-44d6-bea3-4a4d2810451c">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-825" refid="ca300ba3-b40c-437c-86b7-74fb65cd8526" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-825&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="23500e40-f99a-4af7-b68a-eaec96ed4a91"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Allmennaksjeselskap" refid="2ae6d429-ae9f-4e44-8bcf-8e296dbf6459">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="cc019dec-d470-4b75-b5fb-12cd33d04c1c">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="4658306d-f010-4be1-abe0-981bbf84fc56">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-826" refid="e17186bb-e7c0-4369-b7c7-d9661c3bfb94" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-826&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="c3a2a311-e6a8-4661-a5ea-a2448de56607"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Annen juridisk person" refid="8a5c75bc-b4cd-4807-a0bb-888243da133a">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="57136b05-9bf3-4cc0-8df3-ac1f00c6f825">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="ae866914-a0de-481c-805c-259a0cdc7de8">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-906" refid="4e421186-2d98-4774-be81-889a54da809f" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-906&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="9ee9d336-04b6-4a69-910f-4243b1df47cb"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Ansvarlig selskap" refid="72fa2c7a-fcb3-4ade-90f3-3a9d6aca6e0f">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="534d2104-8e70-491e-83d8-176f53707402">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="7970987b-c2a6-4ac3-9ecb-ad2840e6dcd1">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1133" refid="9a8402fb-0250-420f-9723-37680f0d498b" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1133&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="0a7f56f9-b869-47ff-852e-7d7acd5d617e"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Boligbyggelag" refid="0d22491a-902b-4d76-98b3-710878316bf8">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="53a97d85-5b8b-4788-8ae1-8a52ca7094a3">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="c86dd1a8-697e-424a-b42c-854f945bd1cd">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-834" refid="9e42430e-ac0d-41cb-b119-eaac12d6bc63" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-834&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="fc11b5b5-d79d-4e55-a881-9b1a3b593880"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Borettslag" refid="a13488bf-cccd-4149-b49a-32e6042cef7b">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="882e5c8b-d977-4bcc-9787-3f0dab6365ef">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="4893ea18-1f99-4b89-b8f2-21a8d3fb8294">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-835" refid="18e1dfe6-3dd0-4851-bd08-ba979cd375ea" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-835&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="daaeacbe-c1af-47da-ae6f-aa2d0ffb9b4d"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Eierseksjonssameie" refid="9e342a66-cb01-4b93-bd75-f486a11d3557">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="7391c2d3-97c9-4863-b1ee-e9d02d64cac3">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="86cf8014-09ad-45c1-9185-904c6ce44b12">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-841" refid="e1e44529-4bee-4f50-9f08-96059d34224c" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-841&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="bef2c9e0-df1c-423e-87d1-816ffa4548a6"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Europeisk selskap" refid="9b5b2dd1-d588-4da9-b6bf-1cd72046493d">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="c68b4508-cd20-412d-97e1-c89a024c5c65">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="7ef25117-be7a-48d0-9b0b-f58bd23d6f46">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-843" refid="e46821f5-391d-4ccd-b146-db9d2a16763f" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-843&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="705523c2-bc7f-4fa6-b74f-01fdd8de2bc1"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Europeisk økonomisk foretaksgruppe" refid="96e27428-3eb8-4ed3-87d2-306265574f9b">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="28f86ccb-5758-44d8-9032-4cec325fbc0a">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="e1d0f91e-6705-4f5c-9504-d9486c479282">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-845" refid="771b9c22-9b51-4ed5-877b-04c8b44ecdfd" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-845&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="112c9c81-4405-4045-88a5-29e18bba89ff"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Forening" refid="acd897c9-bb12-424b-80ac-3975863b5185">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="c0d78f54-909b-4701-8a75-3f7f5f2c477e">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="162cf6e7-af30-402b-9ce4-40c2823adeb6">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-911" refid="12384835-a707-48e8-b4bc-c3ae0d40ab38" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-911&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="72bdd97d-7a94-45ab-9e5d-791e57ee6205"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Gjensidige forsikringsselskap" refid="30713569-4df6-4ecd-9573-52395e51f1fa">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="4b3d0702-2761-4f8e-aa35-372061287bd2">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="eaf0519b-ccfa-4e7a-ad63-8ec94f2a80c8">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-858" refid="dead28f2-1855-4a03-b3f8-d10177cb606c" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-858&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="8c0f1b47-cfab-4334-bbd7-78fe4f1255bb"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Kommandittselskap" refid="6be845fb-8da6-4acb-8d07-4e2f8156ef4d">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="fe8346eb-bcb1-4958-bfa0-3c364d60036d">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="7831df6f-1962-45f0-b18a-e3f652bffa5a">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-867" refid="7c703ae9-9d42-4dd0-a303-5a11aabe9f19" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-867&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="f145cab5-c44a-495b-a416-807f7e66e84a"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Norskregistrert utenladsk foretak" refid="1f93cac3-5aa3-4982-aac7-0bf49259b3e9">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="cb0bf9e5-2a2e-40f2-bf53-1c7c9c3efae4">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="d30b9ca1-014e-4b73-8b59-80c2fc7d7ccd">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-873" refid="b7287a27-875e-4642-a8d4-9e9403d8c3bf" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-873&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="b9e34d9a-71e1-490a-a42d-f5bb9a6deb29"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Partrederi" refid="aa61f565-ff58-4f10-82f3-6e64c63a0dee">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="017257ae-1958-43a6-9bc4-b611e6e5621e">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="b3549cc6-7c15-449f-a884-979aec8f4eae">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-878 " refid="cf7dc912-410a-4df5-82b3-9e261f1fef61" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-878&amp;#160;&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="2eef1d9f-e434-4dfa-9f99-5c1fe5acf57a"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Pensjonskasse" refid="8ffa390f-e88f-45a8-b3ff-c8380ab7e2a2">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="9b8b2678-a37f-4be8-8aa1-65f8eeb779e4">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="353df669-cede-4cf0-8236-49194514d851">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-879" refid="05c216fd-3f4e-4c97-bda9-2a737122ae58" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-879&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="db4e5642-d5ce-47b4-a4f9-c578bf09beaa"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Registreringspliktig virksomhet" refid="ef0e2dfc-8346-4803-a917-50ff8895d0f1">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="def6aedb-8025-4645-97d1-bbd6ed68ba4d">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="7620cdca-7d52-4975-9ba8-3ec65ab023d2">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-1052" refid="64bc68e2-55a1-4255-9b0f-d195000f9539" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-1052&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Aktør::Organisasjonsnummer" refid="3bb82c2e-f5ad-488c-b914-6ddc3cc08656"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Aktør::Utenlandsk virksomhet" refid="df075e8b-971e-465d-a9a3-e099c7daa742"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Aktør::Virksomhet" refid="8128ecb5-ddf7-4582-bd06-b7acc3d3ffb7"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Samvirkeforetak" refid="01f6e147-805b-46c8-85ad-51b5e7c7acf4">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="552b5754-a607-46da-97e6-a13f39ff89b9">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="55b2cefb-7caa-4019-803c-f818c55c928c">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-883" refid="1c61b89a-4433-4b7a-aa1b-962f6b61290b" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-883&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="c2b00b8c-9696-4720-bbda-aa1b6ff4870b"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Selskap med begrenset ansvar" refid="e7568297-fb27-4c24-ba44-e650af8b6447">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="2f4c6b8c-7807-44f8-91fe-8893a3208554">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="77d70b41-023d-4966-a23a-0c76ea686eb0">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-885" refid="7aa33d19-b1f6-44c9-a003-ff4ab8922744" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-885&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="d73ba725-c52e-4a61-b7d0-b589471421ce"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Sparebank" refid="64fc7001-beb3-4dc5-b7b2-34297b38da3d">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="630cacd7-59f4-4471-b7b6-8f463822f942">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="7dca21bd-c3f2-40e3-a262-bd9eff946657">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-886" refid="c522afbf-e215-4e8c-be37-2f447274e7e4" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-886&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="bcf77fd6-8e47-4391-b956-34cb870dd33f"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Stiftelse" refid="39811f4d-1851-40ae-baa6-bf8983e6bddd">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt, BRProfil::Modellelement" refid="f21a4dbc-54f1-4e8e-a108-6c61b88779d7">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="e0b1ad5b-58f2-4694-a42f-e03b0983cfbb">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="https://jira.brreg.no/browse/BEGREP-938" refid="4680c7d1-1c97-4239-b106-bdd47d19be92" text="&lt;html&gt;&lt;body&gt;&lt;p&gt;&#10;https://jira.brreg.no/browse/BEGREP-938&#10;&#10;    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="1f9101d9-bd7a-472a-b6ca-32ef888eeb22"/>
+</ownedElement>
+</class>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="identifiseres med" refid="6affc9b7-4b70-471d-98e6-1fdf1b98169b">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="c865a8d7-4abf-44a3-965f-97fdc153e181"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være" refid="914420b1-6fac-48d0-8579-8e6db97435f4">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="a2b69749-5d0f-4b54-9edc-2ae64c292258"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="kan være" refid="97446c71-1d87-4427-93f0-ed27f523218e">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::RegistreringspliktigVirksomhet::Registreringspliktig virksomhet" refid="71e79340-2993-445d-92d3-df420d258bac"/>
+</ownedElement>
+</association>
+</ownedElement>
+</package>
+<package classType="Package" humanType="Package" icon="FOM-ReelleRettighetshavere_files/icon_package_662433937.jpg" name="Varsel" refid="251318da-2949-407f-b381-5dbbaa7ec789">
+<ownedElement>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Varsel" refid="0da0a8a6-bf08-46ef-8189-4818d7135eff">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="dc622cd9-6355-4ea9-ab35-267cc74d3d78"/>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Varsel::Varslingspliktig" refid="3335b70e-75f8-477c-9749-3319128ced0c"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="FOM-ReelleRettighetshavere_files/icon_class_951819642.jpg" name="Varslingspliktig" refid="9ceb7e3b-a28e-44fd-a056-45274a8b4813">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : BRProfil::Forretningsobjekt" refid="78a02350-3605-42e9-aba6-900046f1185d"/>
+<generalization classType="Generalization" humanType="Generalization" icon="FOM-ReelleRettighetshavere_files/icon_generalization_1338229093.jpg" isRelationship="true" refid="c4813396-9e28-4435-81b6-b9d60a62efe5"/>
+</ownedElement>
+</class>
+<association classType="Association" humanType="Association" icon="FOM-ReelleRettighetshavere_files/icon_association_186864538.jpg" isRelationship="true" name="meldes av" refid="9f1e87be-e070-42d9-9f04-7304498ad21e">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="FOM-ReelleRettighetshavere_files/icon_property_213290741.jpg" name=" : RegisterOverReelleRettighetshavere_fom::Varsel::Varsel" refid="b66a6958-a3d5-41e0-950b-ba0e4138ba86"/>
+</ownedElement>
+</association>
+</ownedElement>
+</package>
+<legend classType="Class" humanType="Legend" icon="FOM-ReelleRettighetshavere_files/icon_legend_364869254.jpg" name="Fargekoder" refid="1c0ec00d-907c-433b-89cc-bdf04400c991">
+<ownedElement>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : UML Standard Profile::MagicDraw Profile::Legend" refid="fd834def-833b-4596-a065-294a9cf65445"/>
+<legenditem classType="Constraint" humanType="Legend Item" icon="FOM-ReelleRettighetshavere_files/icon_legenditem_707277775.jpg" name="Domenespesifikke forretningsobjekttyper" refid="4ea6c0e1-6b42-428b-a90a-82ee2d786fe5">
+<ownedElement>
+<opaqueexpression classType="OpaqueExpression" humanType="Opaque Expression" icon="FOM-ReelleRettighetshavere_files/icon_opaqueexpression_1197535593.jpg" isHidden="true" name="" refid="6119e3e9-3e08-4833-947b-b8d585049eb7" text=""/>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : UML Standard Profile::MagicDraw Profile::LegendItem" refid="5939c628-8491-497e-8603-301b61467f31">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="e12d4676-0770-40f0-a5cd-29c3f3b99840">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;&lt;adornment fillColor=&quot;-660001&quot; textColor=&quot;-1000000&quot; penColor=&quot;-1000000&quot; transparency=&quot;0&quot; lineWidth=&quot;0&quot; useFill=&quot;YES&quot; representAsPath=&quot;false&quot;/&gt;" refid="e4335b5e-d4dc-4f74-a283-986c7de6dc3f" text="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;&lt;adornment fillColor=&quot;-660001&quot; textColor=&quot;-1000000&quot; penColor=&quot;-1000000&quot; transparency=&quot;0&quot; lineWidth=&quot;0&quot; useFill=&quot;YES&quot; representAsPath=&quot;false&quot;/&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</legenditem>
+<legenditem classType="Constraint" humanType="Legend Item" icon="FOM-ReelleRettighetshavere_files/icon_legenditem_707277775.jpg" name="Fase 2 av Register for reelle rettighetshavere" refid="cdb0a19b-fbdb-4f64-9198-ac7620978b01">
+<ownedElement>
+<opaqueexpression classType="OpaqueExpression" humanType="Opaque Expression" icon="FOM-ReelleRettighetshavere_files/icon_opaqueexpression_1197535593.jpg" isHidden="true" name="" refid="766f03dd-d2dc-4375-8c90-1284898f6e07" text=""/>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : UML Standard Profile::MagicDraw Profile::LegendItem" refid="cc17055a-68fe-4658-a6e6-38ae095a7778">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="cf4c1850-ccc1-4793-922d-6ff4bb4cd72b">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;&lt;adornment fillColor=&quot;-222228&quot; textColor=&quot;-1000000&quot; penColor=&quot;-1000000&quot; transparency=&quot;0&quot; lineWidth=&quot;0&quot; useFill=&quot;YES&quot; representAsPath=&quot;false&quot;/&gt;" refid="d1b71bf8-21b4-496e-a586-307255f4dcc1" text="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;&lt;adornment fillColor=&quot;-222228&quot; textColor=&quot;-1000000&quot; penColor=&quot;-1000000&quot; transparency=&quot;0&quot; lineWidth=&quot;0&quot; useFill=&quot;YES&quot; representAsPath=&quot;false&quot;/&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</legenditem>
+<legenditem classType="Constraint" humanType="Legend Item" icon="FOM-ReelleRettighetshavere_files/icon_legenditem_707277775.jpg" name="Felles objekttyper for Brønnøysundregistrene" refid="ed001300-1e03-4780-90c5-9db27c4e6a06">
+<ownedElement>
+<opaqueexpression classType="OpaqueExpression" humanType="Opaque Expression" icon="FOM-ReelleRettighetshavere_files/icon_opaqueexpression_1197535593.jpg" isHidden="true" name="" refid="684a4117-02df-41dd-a440-26c4000903fc" text=""/>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="FOM-ReelleRettighetshavere_files/icon_instancespecification_1930401429.jpg" isHidden="true" name=" : UML Standard Profile::MagicDraw Profile::LegendItem" refid="f2f3aea1-1d95-4871-94a4-46c5876cc161">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" isHidden="true" refid="c2d0f945-00d7-494e-b976-d509b4ab0373">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" isHidden="true" name="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;&lt;adornment fillColor=&quot;-333301&quot; textColor=&quot;-1000000&quot; penColor=&quot;-1000000&quot; transparency=&quot;0&quot; lineWidth=&quot;0&quot; useFill=&quot;YES&quot; representAsPath=&quot;false&quot;/&gt;" refid="11c1344f-941e-47fa-af69-9e4bbcdddeae" text="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;&lt;adornment fillColor=&quot;-333301&quot; textColor=&quot;-1000000&quot; penColor=&quot;-1000000&quot; transparency=&quot;0&quot; lineWidth=&quot;0&quot; useFill=&quot;YES&quot; representAsPath=&quot;false&quot;/&gt;"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</legenditem>
+</ownedElement>
+</legend>
+</ownedElement>
+</package>
+</ownedElement>
+</model>
+</magicdraw>

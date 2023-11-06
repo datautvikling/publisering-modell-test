@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><literalstring classType="LiteralString" humanType="Literal String" icon="FOM-ReelleRettighetshavere_files/icon_literalstring_2764744.jpg" id="c522afbf-e215-4e8c-be37-2f447274e7e4"><documentation humanName="Documentation"/><name humanName="Name"/><owner classType="Slot" humanName="Owner" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" mode="e" refid="7dca21bd-c3f2-40e3-a262-bd9eff946657"/><owningSlot classType="Slot" humanName="Owning Slot" humanType="Slot" icon="FOM-ReelleRettighetshavere_files/icon_slot_1371819625.jpg" refid="7dca21bd-c3f2-40e3-a262-bd9eff946657"/><qualifiedName humanName="Qualified Name"/><text humanName="Text" mode="standard">&lt;html&gt;&lt;body&gt;&lt;p&gt;
+https://jira.brreg.no/browse/BEGREP-886
+
+    &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</text><TO_DO humanName="To Do"/><TYPE_MODIFIER humanName="Type Modifier"/><value humanName="Value" mode="s,e">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+https://jira.brreg.no/browse/BEGREP-886
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</value><visibility humanName="Visibility">public</visibility></literalstring></magicdraw>
